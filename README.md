@@ -1,3 +1,1 @@
 # Application
-memo
-memo1
